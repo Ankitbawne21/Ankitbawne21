@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-* 🎓 **4th-year B.Tech student** in Computer Science & Engineering (IoT, Cyber Security including Blockchain Technology) at **Indore Institute of Science and Technology**[cite: 8].
-* 💻 Passionate **Java Backend Developer** focused on building robust, scalable REST APIs, secure authentication systems, and high-performance database architectures using the Spring ecosystem[cite: 2].
+* 🎓 **4th-year B.Tech student** in Computer Science & Engineering (IoT, Cyber Security including Blockchain Technology) at **Indore Institute of Science and Technology**.
+* 💻 Passionate **Java Backend Developer** focused on building robust, scalable REST APIs, secure authentication systems, and high-performance database architectures using the Spring ecosystem.
 * 🧠 Actively **learning and practicing Data Structures & Algorithms (DSA)** and solving challenging problems to sharpen logical and analytical reasoning for upcoming technical placements.
 * 🚀 Core enthusiast of clean code principles, system design patterns, computer networking fundamentals, and modern backend engineering practices.
 
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 ### 🏆 Key Engineering Projects & Focus Areas
 * **OOPs Notes in Java:** Developed and maintained an open-source, industry-standard comprehensive learning repository focusing on core object-oriented programming paradigms.
-* **CryptoPlus+:** Engineered an AI-based real-time cryptocurrency tracking architecture featuring live market feeds, interactive dashboards, and secure backend modules[cite: 2].
-* **Web Login Brute Force:** Simulated controlled network vulnerability testing tools to analyze authentication flaws, rate limiting, and defensive security measures[cite: 2].
+* **CryptoPlus+:** Engineered an AI-based real-time cryptocurrency tracking architecture featuring live market feeds, interactive dashboards, and secure backend modules.
+* **Web Login Brute Force:** Simulated controlled network vulnerability testing tools to analyze authentication flaws, rate limiting, and defensive security measures.
 
 ---
 <div align="center">
