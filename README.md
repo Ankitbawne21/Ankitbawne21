@@ -59,22 +59,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📊 GitHub & LeetCode Analytics
-
-<!-- Perfectly aligned Side-by-Side Clean Stats Table without activity clutter -->
-<table align="center" border="0">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ankitbawne21&show_icons=true&theme=radical&hide_border=true&count_private=true" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitbawne21&layout=compact&theme=radical&hide_border=true" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitbawne21&theme=radical&hide_border=true" /></td>
-    <td align="center"><img src="https://leetcard.jacoblin.cool/Ankitbawne21?theme=radical&font=Fira%20Code&exclude_activity=true" /></td>
-  </tr>
-</table>
-
-<br>
-
 ### 🏆 Key Engineering Projects & Focus Areas
 * **OOPs Notes in Java:** Developed and maintained an open-source, industry-standard comprehensive learning repository focusing on core object-oriented programming paradigms.
 * **CryptoPlus+:** Engineered an AI-based real-time cryptocurrency tracking architecture featuring live market feeds, interactive dashboards, and secure backend modules.
